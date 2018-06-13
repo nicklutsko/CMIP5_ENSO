@@ -61,6 +61,8 @@ sdat( c, "data/thermodynamic_cohs.dat" )
 sdat( ph, "data/thermodynamic_phs.dat" )
 sdat( a, "data/thermodynamic_as.dat" )
 
+sdat( freqs, "data/freqs.dat" )
+
 sdat( cd, "data/dynamic_cohs.dat" )
 sdat( phd, "data/dynamic_phs.dat" )
 sdat( ad, "data/dynamic_as.dat" )
