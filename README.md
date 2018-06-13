@@ -6,8 +6,8 @@ Please note that the code in this directory comes without any warranty, without 
 
 The directory contains three folders:
 
--The folder Bony_decomp contains the scripts used to bin the data by the \omega_500 velocities.
--The folder frequency_regr contains the scripts used to perform the frequency-dependent regressions.
+-The folder Bony_decomp contains the scripts used to bin the data by the \omega_500 velocities. \\
+-The folder frequency_regr contains the scripts used to perform the frequency-dependent regressions. \\
 -The folder analysis contains the scripts to make the figures.
 
 The file "models_data.py" contains the model names and sensitivity estimates from Geoffroy et al (2013) and Forster et al (2013).
